@@ -20,6 +20,7 @@ Small modifications to the SelfMobility class can be made (in particular to its 
 #include"misc/TabulatedFunction.cuh"
 #include"external/spline.h"
 #include <cmath>
+#include <fstream>
 using namespace uammd;
 
 //The () operator of this struct must return the normalized self mobility and its derivative when given a position,
