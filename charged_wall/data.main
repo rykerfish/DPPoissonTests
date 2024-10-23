@@ -44,6 +44,8 @@ wall_r_m 1.0
 wall_p 2
 wall_sigma 2
 
+imageDistanceMultiplier 2
+
 #DPPoisson splitting, number of grid cells. You may switch this parameter to "split" instead. 
 Nxy 72
 
